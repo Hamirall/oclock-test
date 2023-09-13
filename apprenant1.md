@@ -35,7 +35,7 @@ Le cahier des charges est bien respecté, les cartes s'ajoutent correctement, on
 
 Dans l'ensemble, le cahier des charges a été bien respecté, donc félicitations.
 
-Cependant, dans un souci d'amélioration, nous pourrions améliorer certains petits éléments dans le code.
+Cependant, nous pourrions améliorer certains petits éléments dans le code afin de perfectionner ce dernier.
 
 **Exemple:**
 

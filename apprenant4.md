@@ -2,8 +2,9 @@
 
 Hello, j'ai voulu corriger ton exercice sur le jeu "**Triple Triad Deck Builder**", mais j'ai remarqué que tu n'avais rien fait. J'aimerais bien comprendre pourquoi.
 
-Est-ce que tout va bien au niveau personnel ? Veux-tu que je voie avec l'équipe pédagogique pour potentiellement te donner un peu plus de temps pour faire l'exercice ?
+Nous rencontrons tous des moments difficiles pendant une formation. C’est tout à fait normal. Mon travail est de te guider pour atteindre tes objectifs. Je suis capable ainsi que l’équipe pédagogique d’adapter la formation à tes besoins. Pour cela nous avons besoin que tu nous exposes les problèmes que tu rencontres. 
 
-Si c'est trop difficile et que tu n'as pas compris certaines choses, nous pouvons prendre un petit moment ensemble en fin de journée pour voir ce qui ne va pas et pour t'aider au mieux.
+Pourrais tu m’accorder un petit moment en fin de journée pour m’expliquer les difficultés que tu as rencontré.
 
+Je suis sûr que nous allons trouvé, ensemble une solution.
 N'hésite pas à me contacter en message privé, je reste disponible 🙂
