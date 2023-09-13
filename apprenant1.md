@@ -2,40 +2,40 @@
 
 **Étape 1: Détail d’une carte**
 
-Peut-être ajouter une condition quand l’élément d’une carte est vide ou nan, ça serait plus jolie je pense
+Peut-être ajouter une condition lorsque l'élément d'une carte est vide ou NaN. Ce serait plus joli, je pense.
 
 ![Capture d’écran 2023-09-13 à 15.15.08.png](screen/Capture_decran_2023-09-13_a_15.15.08.png)
 
 **Étape 2: Recherche**
 
-Quand on recherche par élément on peu voir un “NaN”, s’afficher sur la page. Ce qui peux perdre l’utilisateur.
+Lorsqu'on recherche par élément, on peut voir s'afficher sur la page un "NaN", ce qui peut désorienter l'utilisateur.
 
 - Route: [http://localhost:1234/search/element?element=glace](http://localhost:1234/search/element?element=glace)
     
     ![Capture d’écran 2023-09-12 à 18.35.30.png](screen/Capture_decran_2023-09-12_a_18.35.30.png)
     
 
-Si le code est finit, il faut bien penser à retirer son code commenté, pour rendre ce dernier plus lisible( voir screen si dessus). Code commenté = code inutilisé donc à supprimer.
+Si le code est terminé, il est important de supprimer les commentaires de code pour le rendre plus lisible (voir capture d'écran ci-dessus). Les commentaires de code représentent du code inutilisé et doivent donc être supprimés..
 
 ![Capture d’écran 2023-09-12 à 18.41.56.png](screen/Capture_decran_2023-09-12_a_18.41.56.png)
 
 **Étape 3: Construire un deck**
 
-Le cahier des charges est bien respectés, les cartes s’ajoutent bien comme il faut, on ne peut pas en mettre plus de 5 et pas possible d’ajouter deux fois la même cartes. Et la suppression fonctionne très bien donc bravo.
+Le cahier des charges est bien respecté, les cartes s'ajoutent correctement, on ne peut pas en ajouter plus de 5 et il n'est pas possible d'ajouter deux fois la même carte. De plus, la suppression fonctionne très bien. Bravo !
 
 **Étape Bonus:**
 
 - Route: [http://localhost:1234/search/values?direction=north&value=0](http://localhost:1234/search/values?direction=north&value=0)
-    - Quand il n’y a pas de valeur peut-être personnalisé un peu la message à la place d’un “empty”, pour afficher un message plus clair et en Français.
+    - Quand il n'y a pas de valeur, il est peut-être possible de personnaliser un peu le message à la place d'un "empty", afin d'afficher un message plus clair et en français.
         
         ![Capture d’écran 2023-09-12 à 18.38.03.png](screen/Capture_decran_2023-09-12_a_18.38.03.png)
         
 
 **Conclusion:**
 
-Dans l’ensemble le cahier des charges à bien été respecté donc félicitation. 
+Dans l'ensemble, le cahier des charges a été bien respecté, donc félicitations.
 
-Mais dans un esprit de perfectionnement on pourrai améliorer certains petits éléments dans le code.
+Cependant, dans un souci d'amélioration, nous pourrions améliorer certains petits éléments dans le code.
 
 **Exemple:**
 
@@ -44,7 +44,7 @@ Mais dans un esprit de perfectionnement on pourrai améliorer certains petits é
     ![Capture d’écran 2023-09-12 à 18.58.27.png](screen/Capture_decran_2023-09-12_a_18.58.27.png)
     
 
-- Et Il faut faudrait potentiellement mettre un try catch sur le cast de la variable
+- Il serait potentiellement nécessaire de mettre un “try catch” sur le cast de la variable.
 
 ```jsx
 const cardId = Number(req.params.id);
